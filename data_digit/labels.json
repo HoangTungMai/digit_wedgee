@@ -1,0 +1,134 @@
+{
+ "ball_000.png": {
+  "cx": 140.5,
+  "cy": 259.25,
+  "r": 42.22,
+  "ball_radius_mm": 5.0
+ },
+ "ball_001.png": {
+  "cx": 105.5,
+  "cy": 73.75,
+  "r": 54.33,
+  "ball_radius_mm": 5.0
+ },
+ "ball_002.png": {
+  "cx": 128.25,
+  "cy": 224.0,
+  "r": 45.41,
+  "ball_radius_mm": 5.0
+ },
+ "ball_003.png": {
+  "cx": 110.25,
+  "cy": 168.5,
+  "r": 36.52,
+  "ball_radius_mm": 5.0
+ },
+ "ball_005.png": {
+  "cx": 96.0,
+  "cy": 156.75,
+  "r": 38.89,
+  "ball_radius_mm": 5.0
+ },
+ "ball_006.png": {
+  "cx": 78.0,
+  "cy": 212.0,
+  "r": 44.17,
+  "ball_radius_mm": 5.0
+ },
+ "ball_007.png": {
+  "cx": 147.5,
+  "cy": 165.0,
+  "r": 50.6,
+  "ball_radius_mm": 5.0
+ },
+ "ball_008.png": {
+  "cx": 140.75,
+  "cy": 235.25,
+  "r": 44.08,
+  "ball_radius_mm": 5.0
+ },
+ "ball_009.png": {
+  "cx": 125.44,
+  "cy": 118.67,
+  "r": 45.65,
+  "ball_radius_mm": 5.0
+ },
+ "ball_010.png": {
+  "cx": 159.52,
+  "cy": 188.41,
+  "r": 42.69,
+  "ball_radius_mm": 5.0
+ },
+ "ball_011.png": {
+  "cx": 118.0,
+  "cy": 178.75,
+  "r": 41.7,
+  "ball_radius_mm": 5.0
+ },
+ "ball_013.png": {
+  "cx": 127.25,
+  "cy": 166.5,
+  "r": 49.75,
+  "ball_radius_mm": 5.0
+ },
+ "ball_014.png": {
+  "cx": 112.0,
+  "cy": 230.5,
+  "r": 47.74,
+  "ball_radius_mm": 5.0
+ },
+ "ball_015.png": {
+  "cx": 112.0,
+  "cy": 111.5,
+  "r": 52.73,
+  "ball_radius_mm": 5.0
+ },
+ "ball_016.png": {
+  "cx": 172.5,
+  "cy": 187.5,
+  "r": 47.14,
+  "ball_radius_mm": 5.0
+ },
+ "ball_017.png": {
+  "cx": 130.5,
+  "cy": 103.0,
+  "r": 56.22,
+  "ball_radius_mm": 5.0
+ },
+ "ball_018.png": {
+  "cx": 141.5,
+  "cy": 155.0,
+  "r": 55.1,
+  "ball_radius_mm": 5.0
+ },
+ "ball_019.png": {
+  "cx": 120.5,
+  "cy": 201.5,
+  "r": 44.36,
+  "ball_radius_mm": 5.0
+ },
+ "ball_020.png": {
+  "cx": 165.5,
+  "cy": 203.5,
+  "r": 42.43,
+  "ball_radius_mm": 5.0
+ },
+ "ball_021.png": {
+  "cx": 111.0,
+  "cy": 133.0,
+  "r": 47.75,
+  "ball_radius_mm": 5.0
+ },
+ "ball_022.png": {
+  "cx": 173.0,
+  "cy": 196.5,
+  "r": 38.65,
+  "ball_radius_mm": 5.0
+ },
+ "ball_023.png": {
+  "cx": 123.5,
+  "cy": 183.0,
+  "r": 45.85,
+  "ball_radius_mm": 5.0
+ }
+}

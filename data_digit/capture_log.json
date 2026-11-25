@@ -1,0 +1,151 @@
+[
+ {
+  "frame_shape": [
+   320,
+   240,
+   3
+  ]
+ },
+ {
+  "frame_shape": [
+   320,
+   240,
+   3
+  ]
+ },
+ {
+  "file": "ref.png",
+  "time": "2026-11-21 16:01:11"
+ },
+ {
+  "file": "ball_000.png",
+  "time": "2026-11-21 16:01:31",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_001.png",
+  "time": "2026-11-21 16:02:13",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_002.png",
+  "time": "2026-11-21 16:02:19",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_003.png",
+  "time": "2026-11-21 16:02:21",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_004.png",
+  "time": "2026-11-21 16:02:22",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_005.png",
+  "time": "2026-11-21 16:02:26",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_006.png",
+  "time": "2026-11-21 16:02:29",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_007.png",
+  "time": "2026-11-21 16:02:32",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_008.png",
+  "time": "2026-11-21 16:02:35",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_009.png",
+  "time": "2026-11-21 16:02:37",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_010.png",
+  "time": "2026-11-21 16:02:40",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_011.png",
+  "time": "2026-11-21 16:02:43",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_012.png",
+  "time": "2026-11-21 16:02:47",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_013.png",
+  "time": "2026-11-21 16:02:51",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_014.png",
+  "time": "2026-11-21 16:02:57",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_015.png",
+  "time": "2026-11-21 16:03:03",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "frame_shape": [
+   320,
+   240,
+   3
+  ]
+ },
+ {
+  "file": "ball_016.png",
+  "time": "2026-11-21 16:05:13",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_017.png",
+  "time": "2026-11-21 16:05:23",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_018.png",
+  "time": "2026-11-21 16:05:26",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_019.png",
+  "time": "2026-11-21 16:05:29",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_020.png",
+  "time": "2026-11-21 16:05:37",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_021.png",
+  "time": "2026-11-21 16:05:39",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_022.png",
+  "time": "2026-11-21 16:05:41",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ball_023.png",
+  "time": "2026-11-21 16:05:44",
+  "ball_radius_mm": 5.0
+ },
+ {
+  "file": "ref_end.png",
+  "time": "2026-11-21 16:05:58"
+ }
+]
